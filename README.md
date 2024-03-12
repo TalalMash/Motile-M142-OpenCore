@@ -1,0 +1,8 @@
+ - [x] Video (acceleration)
+ - [x] Keyboard
+ - [x] Speakers
+ - [ ] Microphone
+ - [x] Wi-Fi
+ - [x] Bluetooth
+ - [x] Touchpad (all gestures)
+ - [ ] Sleep
